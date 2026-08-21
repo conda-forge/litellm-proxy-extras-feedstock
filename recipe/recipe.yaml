@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.4.87"
+  version: "0.4.88"
 
 package:
   name: litellm-proxy-extras
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/l/litellm-proxy-extras/litellm_proxy_extras-${{ version }}.tar.gz
-  sha256: 898600e8dbe9f3ebaab06f7d2da43d50e5c760c9f7eacc80c7ee5e484e262cf5
+  sha256: 746ca0fa75a77ff397c5b57533794437723663dc42484f55dd5ddf7509f2c3ec
 
 build:
   number: 0
